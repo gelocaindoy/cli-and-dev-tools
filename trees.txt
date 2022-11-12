@@ -13,4 +13,9 @@ A nest of robins in her hair;
 Upon whose bosom snow has lain;
 Who intimately lives with rain.
 
+<<<<<<< HEAD
 Testing
+=======
+Poems are made by fools like me,
+But only God can make a tree.
+>>>>>>> de813803fdba9c1e453f489dae8717bf7e0323b8
